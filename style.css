@@ -70,13 +70,13 @@ div nav {
 }
 body .div1,
 div .div1 {
-  background: url("http://porschevolution.com/images/slides/1930.jpg") no-repeat center;
+  background: url("./imgs/1930.jpg") no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
 body .div2,
 div .div2 {
-  background: url("http://porschevolution.com/images/slides/1940.jpg") no-repeat center;
+  background: url("./imgs/1940.jpg") no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -107,13 +107,13 @@ div .div2 .card:hover .cardContent {
 }
 body .div3,
 div .div3 {
-  background: url("http://porschevolution.com/images/slides/1950.jpg") no-repeat center;
+  background: url("./imgs/1950.jpg") no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
 body .div4,
 div .div4 {
-  background: url("http://porschevolution.com/images/slides/1960.jpg") no-repeat center;
+  background: url("./imgs/1960.jpg") no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
